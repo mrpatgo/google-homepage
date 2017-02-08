@@ -1,0 +1,75 @@
+img {
+	width:400px;
+	margin: auto;
+	display: block;
+	margin-top: 200px;
+	margin-left: 749px;
+}
+
+.bar {
+	width: 600px;
+	height: 35px;
+	margin: -15px 0px 0px 650px;
+	/* border-style: none;
+	box-shadow: .5px .5px .5px #888888;*/
+}
+
+.gs {
+	margin-left: 820px;
+	color: gray;
+	background-color: #f1f1f1;
+	font-family: Sans-serif;
+	padding: 10px 15px 10px 15px;
+	font-weight: bold;
+	border: none;
+	border-radius: 3%;
+}
+
+.IFL {
+	color: gray;
+	background-color: #f1f1f1;
+	font-family: Sans-serif;
+	padding: 10px 15px 10px 15px;
+	font-weight: bold;
+	text-decoration: : none;
+	border: none;
+	position: absolute;
+	margin-left: 8px;
+	border-radius: 3%;
+}
+
+.IFL:hover, .gs:hover {
+	border: .5px solid #c0c0c0;
+	color: black;
+}
+
+p , a {
+	font-family: Sans-serif;
+	text-decoration: none;
+	text-align: center;
+	font-size: 13px;
+}
+
+.cebu {
+	margin-left: 10px;
+}
+
+.fil {
+	margin-left: 10px;
+}
+
+a {
+	color: blue;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.mic {
+	width: 28px;
+	margin-top: -34px;
+	margin-left: 1210px;
+	position: absolute;
+}
+
